@@ -1,4 +1,4 @@
-whatsupp bro??
+Nice one..bt wud b better if u improve the time complexity
 # qr_scanner
 
 A new Flutter application.
